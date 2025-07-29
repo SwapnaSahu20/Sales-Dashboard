@@ -19,3 +19,5 @@ This project helped me sharpen my skills in:
 Tools used: Power BI, Excel
 
 I'm working toward a role in data analytics and would appreciate any feedback or suggestions.
+
+<img width="1307" height="738" alt="image" src="https://github.com/user-attachments/assets/316795ab-166e-4e7d-8dcf-9f108aa8d838" />
