@@ -20,4 +20,6 @@ Tools used: Power BI, Excel
 
 I'm working toward a role in data analytics and would appreciate any feedback or suggestions.
 
+Linkdin :https://www.linkedin.com/posts/swapna-panda_powerbi-datavisualization-dashboarddesign-activity-7352248542557556738-m5zX?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABE6nCsB_ANOyS-XXFE5RyHKCkWLK422pEE
+
 <img width="1307" height="738" alt="image" src="https://github.com/user-attachments/assets/316795ab-166e-4e7d-8dcf-9f108aa8d838" />
